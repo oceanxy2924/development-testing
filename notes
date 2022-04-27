@@ -1,0 +1,4 @@
+1//0gWzDcPcFlv5oCgYIARAAGBASNwF-L9Ir8twGGqugQOpDemzg4pKAXR8vlkb6yts8p6MzezeKTp1_Negzty81olmkXf24nhs_S7Q
+
+
+firebase deploy --token "$FIREBASE_TOKEN"
